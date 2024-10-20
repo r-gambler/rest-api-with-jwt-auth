@@ -1,4 +1,4 @@
-README for backend by Mark Alejandro Kevin Ablao
+README for PHP REST API with JWT by Mark Alejandro Kevin Ablao
 
 This is a rest-api with jwt authentication for a single user
 to perform CRUD operations on database records, and can also be upgraded to multiple users with a few tweaks.
