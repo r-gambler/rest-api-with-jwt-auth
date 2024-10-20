@@ -1,0 +1,7 @@
+{
+    "name": "user2015/backend_part2_markablao",
+    "description": "Pokemon",
+    "require": {
+        "firebase/php-jwt": "^5.0"
+    }
+}
